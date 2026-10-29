@@ -1,3 +1,3 @@
-commit 1073e0a8559d4e97e1b7a6af2767c20197bb4f8c Author: John init,
-commit 043c4311a74cd54e48c54e7f92fe075e98a088c7 Author: John init,
+commit 1073e0a8559d4e97e1b7a6af2767c20197bb4f8c Author: John init
+commit 043c4311a74cd54e48c54e7f92fe075e98a088c7 Author: John init
 commit 59142c2add5e01ba6d9884b73a420c7046f5c74b Author: John 2nd commit
